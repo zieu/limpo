@@ -1,10 +1,21 @@
 {
   "name": "limpo",
   "license": "MIT",
+  "publisher": "zieu",
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "limpo",
+    "limpo theme",
+    "Accessible Theme",
+    "nice theme"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zieu/limpo",
-    "directory": "limpo"
+    "url": "https://github.com/zieu/limpo"
+  },
+  "scripts": {
+    "publish": "vsce publish"
   },
   "displayName": "limpo",
   "description": "A nice VS Code theme",
