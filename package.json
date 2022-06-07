@@ -19,7 +19,7 @@
   },
   "displayName": "limpo",
   "description": "A nice VS Code theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.67.0"
   },
