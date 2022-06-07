@@ -6,6 +6,8 @@
 
 A Visual Studio Code theme for people who enjoy simplicity!
 
+<img src="./icon.png" alt="limpo logo" />
+
 [Install theme](https://marketplace.visualstudio.com/items?itemName=zieu.limpo)
 
 ## Preview

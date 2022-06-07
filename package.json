@@ -34,5 +34,7 @@
         "path": "./themes/limpo-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icon.png",
+  "preview": true
 }
