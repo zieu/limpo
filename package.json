@@ -1,6 +1,11 @@
 {
   "name": "limpo",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zieu/limpo",
+    "directory": "limpo"
+  },
   "displayName": "limpo",
   "description": "A nice VS Code theme",
   "version": "0.0.1",
