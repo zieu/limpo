@@ -18,8 +18,8 @@
     "publish": "vsce publish"
   },
   "displayName": "limpo",
-  "description": "A nice VS Code theme",
-  "version": "0.0.2",
+  "description": "A VS Code theme for those who value simplicity",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.67.0"
   },
@@ -31,7 +31,12 @@
       {
         "label": "limpo",
         "uiTheme": "vs-dark",
-        "path": "./themes/limpo-color-theme.json"
+        "path": "./themes/limpo-darker-color-theme.json"
+      },
+      {
+        "label": "limpo bluish",
+        "uiTheme": "vs-dark",
+        "path": "./themes/limpo-dark-color-theme.json"
       }
     ]
   },
