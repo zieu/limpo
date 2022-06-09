@@ -2,9 +2,10 @@
 
 <p>
 <a href="https://marketplace.visualstudio.com/items?itemName=zieu.limpo" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/zieu.limpo" alt="Visual Studio Marketplace Version" /></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=zieu.limpo"><img src="https://img.shields.io/visual-studio-marketplace/r/zieu.limpo" alt="Visual Studio Marketplace Rating" /></a>
 </p>
 
-A Visual Studio Code theme for people who enjoy simplicity!
+A Visual Studio Code theme for people who value simplicity!
 
 <img src="./icon.png" alt="limpo logo" />
 
